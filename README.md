@@ -8,6 +8,8 @@ A SwiftUI dress up game.
 Digital Wardrobe is a iOS app, intended to be a mindless fun dress up game where users can put clothing on a character model.
 
 **App Icon**
+
+
 ![playstore](https://github.com/tameramiddlebrooks/Digital-Wardrobe/assets/105788615/a65fbdb3-46d1-4427-bc6d-d9c4be60aec3)
 
 **Built With**
