@@ -1,0 +1,10 @@
+import SwiftUI
+
+@main
+struct DigitalWardrobeApp: App {
+    var body: some Scene {
+        WindowGroup {
+            mainContent()
+        }
+    }
+}
